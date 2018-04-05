@@ -3,5 +3,5 @@ variable "product_domain" {
 }
 
 variable "rds_name" {
-  default = "enterprisewp-db-01"
+  default = "beical-db-01"
 }
