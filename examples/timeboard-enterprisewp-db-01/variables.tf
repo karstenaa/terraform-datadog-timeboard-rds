@@ -1,5 +1,5 @@
 variable "product_domain" {
-  default = "ENT"
+  default = "BEI"
 }
 
 variable "rds_name" {
