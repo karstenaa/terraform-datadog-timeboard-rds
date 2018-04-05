@@ -9,7 +9,7 @@ Usage
 -----
 
 ```hcl
-module "timeboard_rds_enterprisewp-db-01" {
+module "timeboard_rds_beical-db-01" {
   source         = "github.com/traveloka/terraform-datadog-timeboard-rds.git?ref=0.1.0"
   product_domain = "${var.product_domain}"
   rds_name        = "${var.rds_name}"
